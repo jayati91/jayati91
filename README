@@ -1,22 +1,48 @@
-Mobile App Developer | 4.8+ Years Experience | React Native · Flutter · Firebase · API Integration  
-Based in Delhi, India
+ 👋 Hi, I'm Jayati Verma
 
-🔧 I build scalable, beautiful apps for wellness, fitness, and enterprise workflows.
+### 🌿 Wellness-Focused Mobile App Developer | React Native & Flutter | Firebase Champion
 
-## 💼 My Tech Toolbox
-- React Native, Flutter, Dart, JavaScript, Kotlin
-- Firebase, REST APIs, GraphQL
-- Redux, Context API, Provider, Riverpod
-- App Center, CI/CD, Jest, Detox, Flutter Test
+I'm a cross-platform app developer with **4.8 years** of experience crafting delightful, scalable mobile experiences across **fitness**, **health-tech**, and **automotive** domains.
 
-## 📱 Featured Projects
-| App | Description | Tech Stack | Live |
-|-----|-------------|------------|------|
-| **FitNest** | A React Native fitness tracker with personalized workouts, calendar, and reminders | React Native, Firebase, Redux | [Demo](#) |
-| **ZenMind** | A Flutter-based meditation app with session timer, progress tracking, and animations | Flutter, Provider, Firebase | [Demo](#) |
-| **FieldAssist** | Internal app for field technicians with offline sync, QR scan, warranty tracking | React Native, REST API | [Demo](#) |
+- 💪 Currently building [**FitNest**](https://github.com/jayativerma/fitnest-rn-app) — a bougie, animated workout tracker with Firebase, Lottie, and streak logic
+- 🚗 Previously contributed to **Jaguar Land Rover** and **Philips Healthcare** apps via TCS
+- ✨ Obsessed with UI animations, glassmorphism, LottieFX, and beautiful UX journeys
+- 📲 Skilled in React Native, Flutter, Firebase, GraphQL, Expo, Redux, Provider
 
-## 🧠 What I’m Learning Now
-Currently exploring: AI-assisted wellness, performance profiling in React Native, WebRTC integration in Flutter.
-## 🤝 Let's Connect
-jayativ6@gmail.com
+---
+
+## 🔧 Tech Stack
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=000)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff)
+
+---
+
+## ✨ Highlight Projects
+
+### 🔥 [FitNest – Wellness Tracker](https://github.com/jayativerma/fitnest-rn-app)
+> React Native + Firebase | Glassmorphic UI | Animated Streak Tracker
+
+- 📲 Track workouts, hydration, yoga, and progress
+- 🎉 Confetti animations with Lottie
+- 🔒 Firebase Auth + Firestore streak logging
+
+### 🧘 ZenMind (Flutter)
+> Breathing + meditation + journal app
+
+- ⏱️ Timer with mood journaling
+- 📖 Daily quote + streaks
+- 🎨 Flutter animations & i18n
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 🌐 [Portfolio Website](https://jayativerma.dev) *(if you want one, I’ll help you build it!)*
+
+---
+
+> “Code well. Move slow. Ship pretty.” ✨
